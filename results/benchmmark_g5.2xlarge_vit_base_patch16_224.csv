@@ -1,0 +1,3 @@
+Column1;Column2;Column3;Column4;Column5
+time_avg_ms;time_std_ms;time_p95_ms;time_p99_ms;instance_type
+6.86247520001416;0.04583599366522399;6.934817549949912;6.946893399772307;g5.2xlarge

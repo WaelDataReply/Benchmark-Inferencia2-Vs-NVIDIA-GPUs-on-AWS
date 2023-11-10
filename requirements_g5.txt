@@ -1,0 +1,5 @@
+datasets==2.14.6
+numpy==1.26.1
+torch==2.1.0
+torch_neuronx==1.0
+transformers==4.35.0
